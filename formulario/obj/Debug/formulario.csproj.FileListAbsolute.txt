@@ -1,0 +1,16 @@
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\bin\Debug\Database.mdf
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\bin\Debug\Database_log.ldf
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\bin\Debug\formulario.exe.config
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\bin\Debug\formulario.exe
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\bin\Debug\formulario.pdb
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\obj\Debug\formulario.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\obj\Debug\formulario.FormTela.resources
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\obj\Debug\formulario.Properties.Resources.resources
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\obj\Debug\formulario.csproj.GenerateResource.cache
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\obj\Debug\formulario.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\obj\Debug\formulario.exe
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\obj\Debug\formulario.pdb
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\bin\Debug\formulario.exe.manifest
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\bin\Debug\formulario.application
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\obj\Debug\formulario.exe.manifest
+C:\Users\guilh\Documents\CSharp\Formulario\formulario\formulario\obj\Debug\formulario.application
