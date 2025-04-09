@@ -8,20 +8,20 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="http://desktop-7cqd8h8:8080/formulario.application" />
+    <deploymentProvider codebase="http://desktop-4j3il0d:8080/formulario.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="formulario.exe.manifest" size="4350">
+    <dependentAssembly dependencyType="install" codebase="formulario.exe.manifest" size="5007">
       <assemblyIdentity name="formulario.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UsPMjtryWmtXompi+lg5nU25mmYMdsBiTYwXgqOW01Q=</dsig:DigestValue>
+        <dsig:DigestValue>sUf8+a6wn9T36iTqPYuokwglxmm1Z5F5fybmEceWTE0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

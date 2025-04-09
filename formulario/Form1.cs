@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace formulario
 {
-    public partial class FormTela : Form
+    public partial class FrmPrincipal : Form
     {
-        public FormTela()
+        public FrmPrincipal()
         {
             InitializeComponent();
         }
@@ -33,7 +33,17 @@ namespace formulario
         private void FormTela_Load(object sender, EventArgs e)
         {
             // TODO: esta linha de código carrega dados na tabela 'databaseDataSet.Table'. Você pode movê-la ou removê-la conforme necessário.
-            this.tableTableAdapter.Fill(this.databaseDataSet.Table);
+            //this.tableTableAdapter.Fill(this.databaseDataSet.Table);
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void contatoIdMaskedTextBox_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
 
         }
     }

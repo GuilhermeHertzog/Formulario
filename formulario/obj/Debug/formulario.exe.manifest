@@ -42,14 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="formulario.exe" size="172512">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="formulario.exe" size="347104">
       <assemblyIdentity name="formulario" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>zIORGWzB0ee3/T2gTc63G32TEnul5RJy5+9m83knLDg=</dsig:DigestValue>
+        <dsig:DigestValue>kbs9ot/V0S6/q3q8D953ThOcFoiOJRgcYboUxn/cJSM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="bg\formulario.resources.dll" size="120320">
+      <assemblyIdentity name="formulario.resources" version="1.0.0.0" language="bg" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cX4nou374BkmS1pk7ybw0KdoTH6RSWkMuJowtbVHw9o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -59,7 +71,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>pQTcUZlPuhUOkruPbhWMZ4w9/Iku0vfzHHJESnXYSg4=</dsig:DigestValue>
+      <dsig:DigestValue>n0pS9YqdQSyuTVTk20pcUfx+cOsb7b8sCctZT9d+9nk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Database_log.ldf" size="8388608" writeableType="applicationData">
@@ -68,7 +80,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xnY0Gd1DhY1Xkjjnvjed12LSQdF/YLYyrEkAl98+ylU=</dsig:DigestValue>
+      <dsig:DigestValue>2GfRQyJxbGXMLFhx3CRRyPmRtE0CtbshNjWi27aBp+w=</dsig:DigestValue>
     </hash>
   </file>
   <file name="formulario.exe.config" size="532">
